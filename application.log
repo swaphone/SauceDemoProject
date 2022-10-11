@@ -1,0 +1,213 @@
+2022-10-10 11:09:38,603  INFO [main] SauceDemoP:42 - browser is open
+2022-10-10 11:09:38,659  INFO [main] SauceDemoP:44 - browser is maximized
+2022-10-10 11:09:43,536  INFO [main] SauceDemoP:46 - url is open
+2022-10-10 11:09:48,123  INFO [main] SauceDemoP:52 - username is entered
+2022-10-10 11:09:48,434  INFO [main] SauceDemoP:54 - password is entered
+2022-10-10 11:09:50,373  INFO [main] SauceDemoP:56 - login successful
+2022-10-10 11:09:56,346  INFO [main] SauceDemoP:64 - end of the programm
+2022-10-10 11:10:10,391  INFO [main] SauceDemoP:42 - browser is open
+2022-10-10 11:10:10,402  INFO [main] SauceDemoP:44 - browser is maximized
+2022-10-10 11:10:14,397  INFO [main] SauceDemoP:46 - url is open
+2022-10-10 11:10:18,639  INFO [main] SauceDemoP:52 - username is entered
+2022-10-10 11:10:18,818  INFO [main] SauceDemoP:54 - password is entered
+2022-10-10 11:10:20,858  INFO [main] SauceDemoP:56 - login successful
+2022-10-10 11:10:29,136  INFO [main] SauceDemoP:64 - end of the programm
+2022-10-10 11:10:45,071  INFO [main] SauceDemoP:42 - browser is open
+2022-10-10 11:10:45,080  INFO [main] SauceDemoP:44 - browser is maximized
+2022-10-10 11:10:48,658  INFO [main] SauceDemoP:46 - url is open
+2022-10-10 11:10:51,350  INFO [main] SauceDemoP:52 - username is entered
+2022-10-10 11:10:51,551  INFO [main] SauceDemoP:54 - password is entered
+2022-10-10 11:10:52,276  INFO [main] SauceDemoP:56 - login successful
+2022-10-10 11:10:57,526  INFO [main] SauceDemoP:64 - end of the programm
+2022-10-10 11:11:08,660  INFO [main] SauceDemoP:42 - browser is open
+2022-10-10 11:11:08,682  INFO [main] SauceDemoP:44 - browser is maximized
+2022-10-10 11:11:12,389  INFO [main] SauceDemoP:46 - url is open
+2022-10-10 11:11:12,887  INFO [main] SauceDemoP:52 - username is entered
+2022-10-10 11:11:13,059  INFO [main] SauceDemoP:54 - password is entered
+2022-10-10 11:11:13,559  INFO [main] SauceDemoP:56 - login successful
+2022-10-10 11:11:15,275  INFO [main] SauceDemoP:23 - all product is selected
+2022-10-10 11:11:20,271  INFO [main] SauceDemoP:64 - end of the programm
+2022-10-10 11:11:29,803  INFO [main] SauceDemoP:42 - browser is open
+2022-10-10 11:11:29,810  INFO [main] SauceDemoP:44 - browser is maximized
+2022-10-10 11:11:34,521  INFO [main] SauceDemoP:46 - url is open
+2022-10-10 11:11:35,038  INFO [main] SauceDemoP:52 - username is entered
+2022-10-10 11:11:35,270  INFO [main] SauceDemoP:54 - password is entered
+2022-10-10 11:11:35,757  INFO [main] SauceDemoP:56 - login successful
+2022-10-10 11:11:36,929  INFO [main] SauceDemoP:20 - dropdown is clicked
+2022-10-10 11:11:40,721  INFO [main] SauceDemoP:64 - end of the programm
+2022-10-10 12:09:33,938  INFO [TestNG-test=Test-3] SauceDemoP:42 - browser is open
+2022-10-10 12:09:33,983  INFO [TestNG-test=Test-5] SauceDemoP:42 - browser is open
+2022-10-10 12:09:33,988  INFO [TestNG-test=Test-2] SauceDemoP:42 - browser is open
+2022-10-10 12:09:34,016  INFO [TestNG-test=Test-4] SauceDemoP:42 - browser is open
+2022-10-10 12:09:33,945  INFO [TestNG-test=Test-1] SauceDemoP:42 - browser is open
+2022-10-10 12:09:34,341  INFO [TestNG-test=Test-3] SauceDemoP:44 - browser is maximized
+2022-10-10 12:09:34,350  INFO [TestNG-test=Test-1] SauceDemoP:44 - browser is maximized
+2022-10-10 12:09:34,370  INFO [TestNG-test=Test-5] SauceDemoP:44 - browser is maximized
+2022-10-10 12:09:34,377  INFO [TestNG-test=Test-4] SauceDemoP:44 - browser is maximized
+2022-10-10 12:09:34,406  INFO [TestNG-test=Test-2] SauceDemoP:44 - browser is maximized
+2022-10-10 12:09:57,678  INFO [TestNG-test=Test-4] SauceDemoP:46 - url is open
+2022-10-10 12:09:57,692  INFO [TestNG-test=Test-2] SauceDemoP:46 - url is open
+2022-10-10 12:09:58,080  INFO [TestNG-test=Test-3] SauceDemoP:46 - url is open
+2022-10-10 12:09:58,098  INFO [TestNG-test=Test-1] SauceDemoP:46 - url is open
+2022-10-10 12:09:58,109  INFO [TestNG-test=Test-5] SauceDemoP:46 - url is open
+2022-10-10 12:10:10,081  INFO [TestNG-test=Test-3] SauceDemoP:52 - username is entered
+2022-10-10 12:10:10,108  INFO [TestNG-test=Test-5] SauceDemoP:52 - username is entered
+2022-10-10 12:10:10,113  INFO [TestNG-test=Test-1] SauceDemoP:52 - username is entered
+2022-10-10 12:10:10,165  INFO [TestNG-test=Test-4] SauceDemoP:52 - username is entered
+2022-10-10 12:10:10,181  INFO [TestNG-test=Test-2] SauceDemoP:52 - username is entered
+2022-10-10 12:10:11,103  INFO [TestNG-test=Test-3] SauceDemoP:54 - password is entered
+2022-10-10 12:10:11,113  INFO [TestNG-test=Test-1] SauceDemoP:54 - password is entered
+2022-10-10 12:10:11,131  INFO [TestNG-test=Test-4] SauceDemoP:54 - password is entered
+2022-10-10 12:10:11,141  INFO [TestNG-test=Test-5] SauceDemoP:54 - password is entered
+2022-10-10 12:10:11,303  INFO [TestNG-test=Test-2] SauceDemoP:54 - password is entered
+2022-10-10 12:10:18,865  INFO [TestNG-test=Test-1] SauceDemoP:56 - login successful
+2022-10-10 12:10:19,084  INFO [TestNG-test=Test-2] SauceDemoP:56 - login successful
+2022-10-10 12:10:19,213  INFO [TestNG-test=Test-3] SauceDemoP:56 - login successful
+2022-10-10 12:10:20,457  INFO [TestNG-test=Test-5] SauceDemoP:56 - login successful
+2022-10-10 12:10:26,762  INFO [TestNG-test=Test-4] SauceDemoP:56 - login successful
+2022-10-10 12:10:53,915  INFO [TestNG-test=Test-4] SauceDemoP:23 - all product is selected
+2022-10-10 12:11:01,554  INFO [TestNG-test=Test-5] SauceDemoP:20 - dropdown is clicked
+2022-10-10 12:11:12,442  INFO [TestNG-test=Test-3] SauceDemoP:64 - end of the programm
+2022-10-10 12:11:12,556  INFO [TestNG-test=Test-2] SauceDemoP:64 - end of the programm
+2022-10-10 12:11:12,588  INFO [TestNG-test=Test-1] SauceDemoP:64 - end of the programm
+2022-10-10 12:11:12,678  INFO [TestNG-test=Test-4] SauceDemoP:64 - end of the programm
+2022-10-10 12:11:15,031  INFO [TestNG-test=Test-5] SauceDemoP:64 - end of the programm
+2022-10-10 12:11:52,164  INFO [TestNG-test=Test-3] SauceDemoP:42 - browser is open
+2022-10-10 12:11:52,186  INFO [TestNG-test=Test-3] SauceDemoP:44 - browser is maximized
+2022-10-10 12:12:06,120  INFO [TestNG-test=Test-3] SauceDemoP:46 - url is open
+2022-10-10 12:12:06,482  INFO [TestNG-test=Test-3] SauceDemoP:52 - username is entered
+2022-10-10 12:12:06,596  INFO [TestNG-test=Test-3] SauceDemoP:54 - password is entered
+2022-10-10 12:12:07,015  INFO [TestNG-test=Test-3] SauceDemoP:56 - login successful
+2022-10-10 12:12:13,816  INFO [TestNG-test=Test-3] SauceDemoP:64 - end of the programm
+2022-10-10 12:13:26,585  INFO [TestNG-test=Test-3] SauceDemoP:42 - browser is open
+2022-10-10 12:13:26,662  INFO [TestNG-test=Test-1] SauceDemoP:42 - browser is open
+2022-10-10 12:13:27,191  INFO [TestNG-test=Test-3] SauceDemoP:44 - browser is maximized
+2022-10-10 12:13:27,272  INFO [TestNG-test=Test-1] SauceDemoP:44 - browser is maximized
+2022-10-10 12:13:28,324  INFO [TestNG-test=Test-2] SauceDemoP:42 - browser is open
+2022-10-10 12:13:28,553  INFO [TestNG-test=Test-2] SauceDemoP:44 - browser is maximized
+2022-10-10 12:13:34,926  INFO [TestNG-test=Test-3] SauceDemoP:46 - url is open
+2022-10-10 12:13:34,931  INFO [TestNG-test=Test-1] SauceDemoP:46 - url is open
+2022-10-10 12:13:36,093  INFO [TestNG-test=Test-1] SauceDemoP:52 - username is entered
+2022-10-10 12:13:36,099  INFO [TestNG-test=Test-3] SauceDemoP:52 - username is entered
+2022-10-10 12:13:36,382  INFO [TestNG-test=Test-1] SauceDemoP:54 - password is entered
+2022-10-10 12:13:36,524  INFO [TestNG-test=Test-3] SauceDemoP:54 - password is entered
+2022-10-10 12:13:38,103  INFO [TestNG-test=Test-3] SauceDemoP:56 - login successful
+2022-10-10 12:13:38,110  INFO [TestNG-test=Test-1] SauceDemoP:56 - login successful
+2022-10-10 12:13:39,161  INFO [TestNG-test=Test-2] SauceDemoP:46 - url is open
+2022-10-10 12:13:39,972  INFO [TestNG-test=Test-2] SauceDemoP:52 - username is entered
+2022-10-10 12:13:40,348  INFO [TestNG-test=Test-2] SauceDemoP:54 - password is entered
+2022-10-10 12:13:40,989  INFO [TestNG-test=Test-2] SauceDemoP:56 - login successful
+2022-10-10 12:13:44,152  INFO [TestNG-test=Test-2] SauceDemoP:64 - end of the programm
+2022-10-10 12:13:44,851  INFO [TestNG-test=Test-1] SauceDemoP:64 - end of the programm
+2022-10-10 12:13:45,645  INFO [TestNG-test=Test-3] SauceDemoP:64 - end of the programm
+2022-10-10 12:13:47,071  INFO [TestNG-test=Test-2] SauceDemoP:42 - browser is open
+2022-10-10 12:13:47,621  INFO [TestNG-test=Test-2] SauceDemoP:44 - browser is maximized
+2022-10-10 12:13:49,543  INFO [TestNG-test=Test-1] SauceDemoP:42 - browser is open
+2022-10-10 12:13:49,939  INFO [TestNG-test=Test-1] SauceDemoP:44 - browser is maximized
+2022-10-10 12:13:51,654  INFO [TestNG-test=Test-3] SauceDemoP:42 - browser is open
+2022-10-10 12:13:52,108  INFO [TestNG-test=Test-2] SauceDemoP:46 - url is open
+2022-10-10 12:13:52,489  INFO [TestNG-test=Test-3] SauceDemoP:44 - browser is maximized
+2022-10-10 12:13:53,141  INFO [TestNG-test=Test-2] SauceDemoP:52 - username is entered
+2022-10-10 12:13:53,617  INFO [TestNG-test=Test-2] SauceDemoP:54 - password is entered
+2022-10-10 12:13:54,287  INFO [TestNG-test=Test-2] SauceDemoP:56 - login successful
+2022-10-10 12:13:55,418  INFO [TestNG-test=Test-1] SauceDemoP:46 - url is open
+2022-10-10 12:13:56,366  INFO [TestNG-test=Test-1] SauceDemoP:52 - username is entered
+2022-10-10 12:13:56,839  INFO [TestNG-test=Test-1] SauceDemoP:54 - password is entered
+2022-10-10 12:13:57,331  INFO [TestNG-test=Test-1] SauceDemoP:56 - login successful
+2022-10-10 12:13:57,526  INFO [TestNG-test=Test-2] SauceDemoP:23 - all product is selected
+2022-10-10 12:13:58,522  INFO [TestNG-test=Test-1] SauceDemoP:20 - dropdown is clicked
+2022-10-10 12:14:00,175  INFO [TestNG-test=Test-3] SauceDemoP:46 - url is open
+2022-10-10 12:14:00,597  INFO [TestNG-test=Test-3] SauceDemoP:52 - username is entered
+2022-10-10 12:14:00,776  INFO [TestNG-test=Test-3] SauceDemoP:54 - password is entered
+2022-10-10 12:14:01,043  INFO [TestNG-test=Test-3] SauceDemoP:56 - login successful
+2022-10-10 12:14:01,142  INFO [TestNG-test=Test-1] SauceDemoP:64 - end of the programm
+2022-10-10 12:14:01,286  INFO [TestNG-test=Test-2] SauceDemoP:64 - end of the programm
+2022-10-10 12:14:03,363  INFO [TestNG-test=Test-3] SauceDemoP:64 - end of the programm
+2022-10-10 12:14:32,631  INFO [TestNG-test=Test-3] SauceDemoP:42 - browser is open
+2022-10-10 12:14:32,772  INFO [TestNG-test=Test-2] SauceDemoP:42 - browser is open
+2022-10-10 12:14:32,935  INFO [TestNG-test=Test-3] SauceDemoP:44 - browser is maximized
+2022-10-10 12:14:33,482  INFO [TestNG-test=Test-2] SauceDemoP:44 - browser is maximized
+2022-10-10 12:14:33,859  INFO [TestNG-test=Test-1] SauceDemoP:42 - browser is open
+2022-10-10 12:14:34,318  INFO [TestNG-test=Test-1] SauceDemoP:44 - browser is maximized
+2022-10-10 12:14:35,686  INFO [TestNG-test=Test-3] SauceDemoP:46 - url is open
+2022-10-10 12:14:36,683  INFO [TestNG-test=Test-3] SauceDemoP:52 - username is entered
+2022-10-10 12:14:36,826  INFO [TestNG-test=Test-2] SauceDemoP:46 - url is open
+2022-10-10 12:14:37,114  INFO [TestNG-test=Test-3] SauceDemoP:54 - password is entered
+2022-10-10 12:14:37,638  INFO [TestNG-test=Test-3] SauceDemoP:56 - login successful
+2022-10-10 12:14:38,248  INFO [TestNG-test=Test-2] SauceDemoP:52 - username is entered
+2022-10-10 12:14:39,907  INFO [TestNG-test=Test-2] SauceDemoP:54 - password is entered
+2022-10-10 12:14:40,439  INFO [TestNG-test=Test-2] SauceDemoP:56 - login successful
+2022-10-10 12:14:41,036  INFO [TestNG-test=Test-1] SauceDemoP:46 - url is open
+2022-10-10 12:14:41,757  INFO [TestNG-test=Test-1] SauceDemoP:52 - username is entered
+2022-10-10 12:14:42,012  INFO [TestNG-test=Test-1] SauceDemoP:54 - password is entered
+2022-10-10 12:14:42,324  INFO [TestNG-test=Test-1] SauceDemoP:56 - login successful
+2022-10-10 12:14:43,304  INFO [TestNG-test=Test-3] SauceDemoP:64 - end of the programm
+2022-10-10 12:14:43,590  INFO [TestNG-test=Test-2] SauceDemoP:64 - end of the programm
+2022-10-10 12:14:44,302  INFO [TestNG-test=Test-1] SauceDemoP:64 - end of the programm
+2022-10-10 12:14:47,735  INFO [TestNG-test=Test-3] SauceDemoP:42 - browser is open
+2022-10-10 12:14:48,362  INFO [TestNG-test=Test-2] SauceDemoP:42 - browser is open
+2022-10-10 12:14:48,371  INFO [TestNG-test=Test-3] SauceDemoP:44 - browser is maximized
+2022-10-10 12:14:48,878  INFO [TestNG-test=Test-2] SauceDemoP:44 - browser is maximized
+2022-10-10 12:14:50,629  INFO [TestNG-test=Test-1] SauceDemoP:42 - browser is open
+2022-10-10 12:14:51,860  INFO [TestNG-test=Test-1] SauceDemoP:44 - browser is maximized
+2022-10-10 12:14:52,997  INFO [TestNG-test=Test-2] SauceDemoP:46 - url is open
+2022-10-10 12:14:53,488  INFO [TestNG-test=Test-3] SauceDemoP:46 - url is open
+2022-10-10 12:14:54,601  INFO [TestNG-test=Test-2] SauceDemoP:52 - username is entered
+2022-10-10 12:14:54,687  INFO [TestNG-test=Test-1] SauceDemoP:46 - url is open
+2022-10-10 12:14:54,945  INFO [TestNG-test=Test-3] SauceDemoP:52 - username is entered
+2022-10-10 12:14:55,448  INFO [TestNG-test=Test-1] SauceDemoP:52 - username is entered
+2022-10-10 12:14:55,659  INFO [TestNG-test=Test-2] SauceDemoP:54 - password is entered
+2022-10-10 12:14:55,899  INFO [TestNG-test=Test-3] SauceDemoP:54 - password is entered
+2022-10-10 12:14:55,986  INFO [TestNG-test=Test-1] SauceDemoP:54 - password is entered
+2022-10-10 12:14:56,793  INFO [TestNG-test=Test-1] SauceDemoP:56 - login successful
+2022-10-10 12:14:56,809  INFO [TestNG-test=Test-2] SauceDemoP:56 - login successful
+2022-10-10 12:14:58,037  INFO [TestNG-test=Test-3] SauceDemoP:56 - login successful
+2022-10-10 12:15:00,929  INFO [TestNG-test=Test-2] SauceDemoP:20 - dropdown is clicked
+2022-10-10 12:15:01,845  INFO [TestNG-test=Test-3] SauceDemoP:23 - all product is selected
+2022-10-10 12:15:02,834  INFO [TestNG-test=Test-1] SauceDemoP:64 - end of the programm
+2022-10-10 12:15:03,293  INFO [TestNG-test=Test-2] SauceDemoP:64 - end of the programm
+2022-10-10 12:15:03,528  INFO [TestNG-test=Test-3] SauceDemoP:64 - end of the programm
+2022-10-10 12:15:24,310  INFO [main] SauceDemoP:42 - browser is open
+2022-10-10 12:15:24,525  INFO [main] SauceDemoP:44 - browser is maximized
+2022-10-10 12:15:27,677  INFO [main] SauceDemoP:46 - url is open
+2022-10-10 12:15:28,448  INFO [main] SauceDemoP:52 - username is entered
+2022-10-10 12:15:28,666  INFO [main] SauceDemoP:54 - password is entered
+2022-10-10 12:15:29,090  INFO [main] SauceDemoP:56 - login successful
+2022-10-10 12:15:30,031  INFO [main] SauceDemoP:64 - end of the programm
+2022-10-10 12:15:32,243  INFO [main] SauceDemoP:42 - browser is open
+2022-10-10 12:15:32,405  INFO [main] SauceDemoP:44 - browser is maximized
+2022-10-10 12:15:34,968  INFO [main] SauceDemoP:46 - url is open
+2022-10-10 12:15:35,404  INFO [main] SauceDemoP:52 - username is entered
+2022-10-10 12:15:35,587  INFO [main] SauceDemoP:54 - password is entered
+2022-10-10 12:15:36,010  INFO [main] SauceDemoP:56 - login successful
+2022-10-10 12:15:37,248  INFO [main] SauceDemoP:64 - end of the programm
+2022-10-10 12:15:39,296  INFO [main] SauceDemoP:42 - browser is open
+2022-10-10 12:15:39,692  INFO [main] SauceDemoP:44 - browser is maximized
+2022-10-10 12:15:42,560  INFO [main] SauceDemoP:46 - url is open
+2022-10-10 12:15:42,974  INFO [main] SauceDemoP:52 - username is entered
+2022-10-10 12:15:43,167  INFO [main] SauceDemoP:54 - password is entered
+2022-10-10 12:15:43,522  INFO [main] SauceDemoP:56 - login successful
+2022-10-10 12:15:44,753  INFO [main] SauceDemoP:64 - end of the programm
+2022-10-10 12:15:46,987  INFO [main] SauceDemoP:42 - browser is open
+2022-10-10 12:15:47,188  INFO [main] SauceDemoP:44 - browser is maximized
+2022-10-10 12:15:50,356  INFO [main] SauceDemoP:46 - url is open
+2022-10-10 12:15:50,742  INFO [main] SauceDemoP:52 - username is entered
+2022-10-10 12:15:50,961  INFO [main] SauceDemoP:54 - password is entered
+2022-10-10 12:15:51,467  INFO [main] SauceDemoP:56 - login successful
+2022-10-10 12:15:52,503  INFO [main] SauceDemoP:23 - all product is selected
+2022-10-10 12:15:53,737  INFO [main] SauceDemoP:64 - end of the programm
+2022-10-10 12:15:56,309  INFO [main] SauceDemoP:42 - browser is open
+2022-10-10 12:15:56,499  INFO [main] SauceDemoP:44 - browser is maximized
+2022-10-10 12:15:58,503  INFO [main] SauceDemoP:46 - url is open
+2022-10-10 12:15:58,934  INFO [main] SauceDemoP:52 - username is entered
+2022-10-10 12:15:59,132  INFO [main] SauceDemoP:54 - password is entered
+2022-10-10 12:15:59,642  INFO [main] SauceDemoP:56 - login successful
+2022-10-10 12:16:00,363  INFO [main] SauceDemoP:20 - dropdown is clicked
+2022-10-10 12:16:01,570  INFO [main] SauceDemoP:64 - end of the programm
+2022-10-10 12:16:03,819  INFO [main] SauceDemoP:42 - browser is open
+2022-10-10 12:16:04,051  INFO [main] SauceDemoP:44 - browser is maximized
+2022-10-10 12:16:06,079  INFO [main] SauceDemoP:46 - url is open
+2022-10-10 12:16:06,501  INFO [main] SauceDemoP:52 - username is entered
+2022-10-10 12:16:06,681  INFO [main] SauceDemoP:54 - password is entered
+2022-10-10 12:16:06,962  INFO [main] SauceDemoP:56 - login successful
+2022-10-10 12:16:09,395  INFO [main] SauceDemoP:64 - end of the programm
